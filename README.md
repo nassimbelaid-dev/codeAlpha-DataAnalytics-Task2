@@ -104,7 +104,3 @@ See `requirements.txt` for recommended versions.
 ├── README.md             # This file
 └── requirements.txt      # Python dependencies
 ```
-
-## 10. Author
-
-_[Nassim BELAID]_
